@@ -34,6 +34,10 @@
  ![EclipseChe](<a href="http://imgur.com/bfNnBRF"><img src="http://i.imgur.com/bfNnBRF.png?1" title="source: imgur.com" /></a>)
 #### - Crear una clase Student y una clase Teacher, las cuales heredaran las propiedades de Persona
 ![EclipseChe](<a href="http://imgur.com/zSzLcxK"><img src="http://i.imgur.com/zSzLcxK.png?1" title="source: imgur.com" /></a>)
+#### - Declarar e implementar las siguientes variable y metodos en la clase Student
+![EclipseChe](<a href="http://imgur.com/bg5x9YU"><img src="http://i.imgur.com/bg5x9YU.png?1" title="source: imgur.com" /></a>)
+#### - Declarar e implementar las siguientes variable y metodos en la clase Teacher
+![EclipseChe](<a href="http://imgur.com/3xGJbbx"><img src="http://i.imgur.com/3xGJbbx.png?1" title="source: imgur.com" /></a>)
 ## Preguntas
 ### - ¿Que es GitHub?
 Es una página web que se utiliza como repositorio de proyectos de software libre e incluso para proyectos de empresas.
